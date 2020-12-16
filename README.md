@@ -1,7 +1,7 @@
 ### 這是台大醉月湖的鴿子
 我真的會氣死欸為什麼放鴿子就一直死圖
 
-<img src="https://i.imgur.com/8n6WaLr.jpg" width = "50%"/>
+<img src="https://i.imgur.com/8n6WaLr.jpg" width = "80%"/>
 <!--
 **creeperjong/creeperjong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
