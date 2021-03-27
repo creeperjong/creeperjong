@@ -1,6 +1,6 @@
 ### 這是台大醉月湖的鴿子
 
-<img src="https://i.imgur.com/8n6WaLr.jpg" width = "80%"/>
+<img src="https://i.imgur.com/DUTNnlp.jpg" width = "80%"/>
 <!--
 **creeperjong/creeperjong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
