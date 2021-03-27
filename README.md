@@ -1,6 +1,7 @@
-### 這是台大醉月湖的鴿子
+### 這是我家的三線鼠
+覺得可愛可以給他一顆星星
 
-<img src="https://i.imgur.com/GQb8S19.jpg" width = "80%"/>
+<img src="https://i.imgur.com/GQb8S19.jpg" width = "50%"/>
 <!--
 **creeperjong/creeperjong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
