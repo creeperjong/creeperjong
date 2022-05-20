@@ -1,7 +1,5 @@
-### 這是我家的三線鼠
-覺得可愛可以給他一顆星星
-
-<img src="https://i.imgur.com/GQb8S19.jpg" width = "50%"/>
+### 不能放三線鼠了
+我找時間再整理一下這裡...
 <!--
 **creeperjong/creeperjong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
